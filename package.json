@@ -2,10 +2,10 @@
   "name": "isomorphic_react_app_boilerplate",
   "version": "1.0.0",
   "author": "Kostas Loupasakis <loupax@gmail.com>",
-  "description": "Boilerplate using React, SASS, Gulp, and Browserify while also utilizing best practices. Fork of https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate",
+  "description": "Boilerplate using React, SASS, Gulp, and Browserify. Fork of https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate",
   "repository": {
     "type": "git",
-    "url": "https://github.com/loupax/react-gulp-browserify-boilerplate.git"
+    "url": "https://github.com/Loupax/isomorphic_react_app_boilerplate.git"
   },
   "keywords": [
     "express",
